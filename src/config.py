@@ -11,3 +11,4 @@ NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
 
 # Dataset
 RAW_DATA_PATH = DATA_DIR / "IMDBRecSys.csv"
+PROCESSED_DATA_PATH = DATA_DIR / "IMDBRecSys_Processed.csv"
